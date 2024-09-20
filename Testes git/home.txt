@@ -1,2 +1,2 @@
-linha de texto 1
+linha de texto 1 OUTRA BRANCH
 LINHA DA OUTRA BRANCH
